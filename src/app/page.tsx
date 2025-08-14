@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import Link from "next/link";
 import P5Canvas from "@/components/p5Canva";
 import { mySketch } from "@/p5/mySketch";
